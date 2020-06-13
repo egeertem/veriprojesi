@@ -9,7 +9,11 @@ tags:
   - site hakkinda
 ---
 
-##In English##
+
+## In English ##
+
+
+# Ege #
 
 
 [] seo *incelenmeli*
@@ -19,3 +23,4 @@ tags:
 [] Ana sayfanin bir kopyasi read me de tutulmali
 [] fontlar buyutulmeli ve degisitirilmeli
 []Kisisel site ayri olmali sanirsa
+

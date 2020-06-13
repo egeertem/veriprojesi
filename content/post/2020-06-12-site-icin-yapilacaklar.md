@@ -8,10 +8,11 @@ categories:
 tags:
   - site hakkinda
 ---
+
 ##In English##
 
 
-[]seo *incelenmeli*
+[] seo *incelenmeli*
 [] Branch yapmayi **ogren** ve iki tane branch yap, bir postlar icin birde theme custimization icin.
 [] i18n hugo ogrenmen lazim
 []rmarkdown calistirilmali 

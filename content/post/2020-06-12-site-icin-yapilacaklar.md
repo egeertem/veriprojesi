@@ -10,8 +10,9 @@ tags:
 ---
 ##In English##
 
-[]seo incelenmeli
-[] Branch yapmayi ogren ve iki tane branch yap, bir postlar icin birde theme custimization icin.
+
+[]seo *incelenmeli*
+[] Branch yapmayi **ogren** ve iki tane branch yap, bir postlar icin birde theme custimization icin.
 [] i18n hugo ogrenmen lazim
 []rmarkdown calistirilmali 
 [] Ana sayfanin bir kopyasi read me de tutulmali

@@ -15,3 +15,4 @@ tags:
 []rmarkdown calistirilmali 
 [] Ana sayfanin bir kopyasi read me de tutulmali
 [] fontlar buyutulmeli ve degisitirilmeli
+[]Kisisel site ayri olmali sanirsam

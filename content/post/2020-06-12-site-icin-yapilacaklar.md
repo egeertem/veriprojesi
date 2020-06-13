@@ -1,5 +1,5 @@
 ---
-title: Site İcin Yapilacaklar
+title: Site icin yapilacaklar
 author: Ege Ertem
 date: '2020-06-12'
 slug: site-icin-yapilacaklar
